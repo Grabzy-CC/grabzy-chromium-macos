@@ -193,5 +193,5 @@ fi
 "$_pkg_dmg" \
   --sourcefile --source "$_app" \
   --target "$_target_dmg" \
-  --volname Chromium --symlink /Applications:/Applications \
+  --volname "Grabzy.CC" --symlink /Applications:/Applications \
   --format UDBZ --verbosity 2
